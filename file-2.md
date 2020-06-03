@@ -8,6 +8,7 @@ remove 1.0.0's feature line 5
 
 # Title 2
 line1
+line3 - add by team a
 line4
 
 # change by team-b
